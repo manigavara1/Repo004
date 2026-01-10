@@ -1,0 +1,16 @@
+Nuel Global | Banking Application – CI/CD & Cloud Automation
+• Used Git and GitHub for source code version control with branching and merging strategies.
+• Designed and executed Jenkins CI pipelines for automated build, test, and deployment.
+• Integrated Jenkins with Maven and Tomcat for application delivery.
+• Created Docker images using Dockerfile and managed containers for application runtime.
+• Implemented Docker Compose for multi-container application setup.
+• Provisioned AWS infrastructure including EC2, S3, IAM roles, and security groups.
+• Automated infrastructure provisioning using Terraform scripts.
+• Configured servers and applications using Ansible playbooks.
+• Deployed applications on Apache and Tomcat servers in Linux environments.
+• Performed basic Kubernetes operations such as pod creation and service exposure.
+• Monitored application logs and resolved deployment issues.
+• Followed DevOps best practices for automation and continuous improvement.
+
+
+
